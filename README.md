@@ -19,7 +19,7 @@ git remote add origin https://github.com/cdlast/ECE555CremeDream.git
 
 
 
-How to git push:
+# How to git push:
 
 git add -u
 
@@ -33,6 +33,6 @@ git push -u origin master
 
 
 
-How to git pull:
+# How to git pull:
 
 git pull origin master
