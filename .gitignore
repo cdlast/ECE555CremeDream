@@ -1,0 +1,11 @@
+# Gitignore #
+#############
+
+# Library files #
+#################
+cdsinfo.tag
+tech.db
+
+# Lock files #
+##############
+*.cdslck
