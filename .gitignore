@@ -8,4 +8,4 @@ tech.db
 
 # Lock files #
 ##############
-*.cdslck
+cdslck
