@@ -36,3 +36,7 @@ git push -u origin master
 # How to git pull:
 
 git pull origin master
+
+# If you run into issues, this website is decent
+
+http://guides.beanstalkapp.com/version-control/common-git-commands.html
