@@ -19,12 +19,13 @@ git remote add origin https://github.com/cdlast/ECE555CremeDream.git
 
 
 
-Every time after the first entry (Don't include the parentheses)  <-------------
+How to git push:
 
-git add (any files/folders you want to add to the repo)
-EX: git add README.txt
+git add -u
 
 git commit -m "Commit message in quotes"
+
+git push -u origin master
 
 
 
