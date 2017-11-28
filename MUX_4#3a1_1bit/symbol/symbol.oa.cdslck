@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      hasheminejad
+HostName                       tux-39.cae.wisc.edu
+ProcessIdentifier              26752
+ProcessCreationTime_UTC        1511831425
+ProcessCreationTime_Readable   Mon Nov 27 19:10:25 2017 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /userspace/h/hasheminejad/ECE_555/cadence/ECE_555/MUX_4#3a1_1bit/symbol/symbol.oa.cdslck
+TimeEditLocked                 Mon Nov 27 20:17:01 2017 CST

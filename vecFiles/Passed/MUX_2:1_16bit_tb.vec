@@ -1,0 +1,3 @@
+in1<15:0> in0<15:0> sel --> out<15:0>
+AAAA BBBB 0 BBBB
+AAAA BBBB 1 AAAA

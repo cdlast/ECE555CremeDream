@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sato
+HostName                       tux-40.cae.wisc.edu
+ProcessIdentifier              24538
+ProcessCreationTime_UTC        1511888622
+ProcessCreationTime_Readable   Tue Nov 28 11:03:42 2017 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /userspace/s/sato/ece555/cadence/ECE_555/FF_MScondensed/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Nov 28 11:39:56 2017 CST
