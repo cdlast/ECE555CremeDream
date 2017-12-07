@@ -11,3 +11,8 @@ tech.db
 *.cdslck
 *symbol.oa.cdslck.*
 *sch.oa.cdslck.*
+
+# Library files #
+#################
+.oalib
+sch.oa-
