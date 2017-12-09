@@ -1,0 +1,2 @@
+rf_p0<15:0> rf_p1<15:0> src0_sel src1_sel cin ars rshft<1:0> --> cout dst<15:0>
+
