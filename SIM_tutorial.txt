@@ -1,0 +1,19 @@
+Step 1, make vec file
+
+format:
+
+input_1 input_2 ... --> output_1	//use exact names
+input_1_1 input_2_1  ... expected_output_1_1
+input_1_2 input_2_2 ... expected_output_1_2
+
+//one stimulus per clock cycle
+Step 2:  gen_ocean.pl vector_file_name.vec
+Step 3: clock cycle: 250
+Step 4: Launch -> ADE L
+Step 5: setup ... simulator.. model files
+Step 6: Set up -> simulation files -> Stimulus files -> choose vectors.stim
+Step 7: Analysis -> tran -> stop time = 16 n
+Step 8: Run it in cadence
+Step 9: in cadence command prompt 'load("run_and_check.ocn")'
+
+
