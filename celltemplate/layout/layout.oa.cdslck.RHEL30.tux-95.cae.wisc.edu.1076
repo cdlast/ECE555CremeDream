@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      jtliu
 HostName                       tux-95.cae.wisc.edu
-ProcessIdentifier              918
-ProcessCreationTime_UTC        1512925402
-ProcessCreationTime_Readable   Sun Dec 10 11:03:22 2017 CST
+ProcessIdentifier              1076
+ProcessCreationTime_UTC        1512935613
+ProcessCreationTime_Readable   Sun Dec 10 13:53:33 2017 CST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /userspace/j/jtliu/ece555/cadence/ECE_555/LATCH/layout/layout.oa.cdslck
-TimeEditLocked                 Sun Dec 10 11:03:38 2017 CST
+FilePathUsedToEditLock         /userspace/j/jtliu/ece555/cadence/ECE_555/celltemplate/layout/layout.oa.cdslck
+TimeEditLocked                 Sun Dec 10 14:14:51 2017 CST

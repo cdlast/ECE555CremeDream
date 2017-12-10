@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Sun Dec 10 10:11:50 2017 CST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /userspace/h/hasheminejad/ece555/cadence/ECE_555/passgate/layout/layout.oa.cdslck
-TimeEditLocked                 Sun Dec 10 10:14:00 2017 CST
+FilePathUsedToEditLock         /userspace/h/hasheminejad/ece555/cadence/ECE_555/celltemplate/layout/layout.oa.cdslck
+TimeEditLocked                 Sun Dec 10 14:45:50 2017 CST
