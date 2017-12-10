@@ -8,9 +8,10 @@ tech.db
 
 # Lock files #
 ##############
-*.cdslck
+*.cdslck.*
 *symbol.oa.cdslck.*
 *sch.oa.cdslck.*
+*layout.oa.cdslck.*
 
 # Library files #
 #################
